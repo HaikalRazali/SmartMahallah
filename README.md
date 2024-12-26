@@ -15,7 +15,7 @@ By creating a solution using Smart Mahallah app, we can increase security of mah
 
 Target User: Mahallah Management and Residents(IIUM Students)
 
-Preferred Platform: Smartphones
+Preferred Platform: Android and iOS Smartphones (both platform used by common)
 
 Features:
 
