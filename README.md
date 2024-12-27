@@ -8,6 +8,8 @@ Matric: 1921805
 
 Title: Smart Mahallah
 
+Project Initiation
+
 Background: 
 Up until this day, a lot of stealing cases happened within mahallah compound. These cases made students feel unsafe especially related to their belongings. In addition, OSeM could not handle this spreading stealing cases all the time because they have a lot of other tasks to handle. 
 
@@ -37,3 +39,7 @@ Features:
 
 - Residents Databank(Mahallah Management/Admin uses only).
 ~ Where Admin/Mahallah Management can do CRUD operation.
+
+
+Requirement Analysis
+
