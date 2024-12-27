@@ -38,8 +38,17 @@ Features:
 ~ Real-Time Notification wil allow Mahallah Management to notify residents on any important announcement related to mahallah. Mahallah Management can receive notification from Mahallah Report Page when residents make any report.
 
 - Residents Databank(Mahallah Management/Admin uses only).
+
+
+
 ~ Where Admin/Mahallah Management can do CRUD operation.
 
 
 Requirement Analysis
 
+```sequence {theme="simple"}
+Andrew->China: Says Hello
+Note right of China: China thinks\nabout it
+China-->Andrew: how are you?
+Andrew->>China: I am good thanks!
+```
