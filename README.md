@@ -21,6 +21,14 @@ Target User: Mahallah Management and Residents(IIUM Students)
 Preferred Platform: Android and iOS Smartphones (both platform used by common)
 
 Features:
+- Registration Page.
+~ User need to register before login into the app. User can do manual registration or by tapping matric card and will be automatically registered.
+
+- Login Page.
+~ User need to Login to gain access.
+
+- Residents Profile.
+~ Contain User profile details such as full name, Matric No, Level of Study.
 
 - Room Registration. 
 ~ for room registration during start of semester. residents only can register room within time given by Mahallah Management. Late registration will be detected and Mahallah Management will be notified.
