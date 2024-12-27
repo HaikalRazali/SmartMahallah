@@ -46,9 +46,4 @@ Features:
 
 Requirement Analysis
 
-```sequence {theme="simple"}
-Andrew->China: Says Hello
-Note right of China: China thinks\nabout it
-China-->Andrew: how are you?
-Andrew->>China: I am good thanks!
-```
+
